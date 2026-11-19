@@ -4,6 +4,10 @@ Aplikasi kampus sederhana (Flutter) untuk **Tugas Sesi 07 – Membangun Aplikasi
 Menerapkan arsitektur berlapis **View → ViewModel → Repository → Service** sesuai panduan resmi Flutter,
 dengan `provider` untuk dependency injection.
 
+
+Nama : Ari Rizal Zalaludin
+Nim : 20240040042
+
 ## Fitur
 - **Beranda** – kuliah hari ini + tugas belum selesai (gabungan `ScheduleRepository` & `TaskRepository`).
 - **Jadwal** – jadwal per hari (Senin–Jumat) memakai `SegmentedButton`.
