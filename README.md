@@ -5,7 +5,7 @@ Menerapkan arsitektur berlapis **View → ViewModel → Repository → Service**
 dengan `provider` untuk dependency injection.
 
 
-Nama : Ari Rizal Zalaludin
+Nama : Ari Rizal Zalaludin,
 Nim : 20240040042
 
 ## Fitur
